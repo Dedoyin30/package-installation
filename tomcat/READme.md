@@ -35,8 +35,8 @@ sudo yum install java-11-openjdk-devel -y
 ### Download and extract the tomcat server
 ``` sh
 sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.15/bin/apache-tomcat-10.1.15.zip
-sudo unzip apache-tomcat-10.1.10.zip
-sudo rm -rf apache-tomcat-10.1.10.zip
+sudo unzip apache-tomcat-10.1.15.zip
+sudo rm -rf apache-tomcat-10.1.15.zip
 
 ### rename tomcat for good naming convention
 sudo mv apache-tomcat-10.1.10 tomcat10
