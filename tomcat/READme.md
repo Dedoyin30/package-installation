@@ -39,7 +39,7 @@ sudo unzip apache-tomcat-10.1.15.zip
 sudo rm -rf apache-tomcat-10.1.15.zip
 
 ### rename tomcat for good naming convention
-sudo mv apache-tomcat-10.1.10 tomcat10
+sudo mv apache-tomcat-10.1.15 tomcat10
 
 ### assign executable permissions to the tomcat home directory
 sudo chmod 777 -R /opt/tomcat10
